@@ -3,7 +3,7 @@
 <h3 align="center">A full-time frontend developer(for now🫠) from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning NodeJS<br><br>👨‍💻 All of my projects are available at Loading...😶‍🌫️<br><br>💬 Ask me about React, Next.js, CSS etc..(literally anything.I'll google and let u know)<br><br>📫 How to reach me gayuvick2002@gmail.com<br><br>⚡ Fun fact I think I have a zoned-in kooky persona
+🌱 I’m currently learning Rust<br><br>👨‍💻 All of my projects are available at Loading...😶‍🌫️<br><br>💬 Ask me about React, Next.js, Ember.js CSS etc..(literally anything.I'll google and let u know)<br><br>📫 How to reach me gayuvick2002@gmail.com<br><br>⚡ Fun fact I think I have a zoned-in kooky persona
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathiri-nakkeeran-b5ba101a5) 
@@ -24,6 +24,7 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
@@ -54,9 +55,6 @@
 [![CST](https://img.shields.io/badge/cst-2311203.svg?style=for-the-badge&logo=cst&logoColor=white)](https://www.3ds.com/products/simulia/cst-studio-suite)
 [![Collba](https://img.shields.io/badge/Colab-00979D.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-94899D.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-## Stuff Dev could relate:
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 # 📊 GitHub Stats and Trophies:
 |  Stats | Most Uses Languages |
