@@ -3,7 +3,7 @@
 <h3 align="center">A full-time frontend developer(for now🫠) from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Rust<br><br>👨‍💻 All of my projects are available at Loading...😶‍🌫️<br><br>💬 Ask me about React, Next.js, Ember.js CSS etc..(literally anything.I'll google and let u know)<br><br>📫 How to reach me gayuvick2002@gmail.com<br><br>⚡ Fun fact I think I have a zoned-in kooky persona
+🌱 I’m currently learning AngularJS<br><br>👨‍💻 All of my projects are available at Loading...😶‍🌫️<br><br>💬 Ask me about React, Next.js, Ember.js CSS etc..(literally anything.I'll google and let u know)<br><br>📫 How to reach me gayuvick2002@gmail.com<br><br>⚡ Fun fact I think I have a zoned-in kooky persona
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gayathiri-nakkeeran-b5ba101a5) 
